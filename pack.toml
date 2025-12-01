@@ -1,0 +1,13 @@
+name = "E. Coli"
+author = "AmeMeida"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5c60c4a64571f3b5388997e99a95180b6ffb2f83f577987989e0946e62e613f5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"

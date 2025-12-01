@@ -1,0 +1,7 @@
+.github/**
+/*.zip
+*.mrpack
+README*
+.nojekyll
+
+local/**
