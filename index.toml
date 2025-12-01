@@ -61,6 +61,26 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "33e622b555cb9a87a5f1845df1dc25d5827428c23892ee6f98300591b4e2500d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "132dbb456d882d92aa41556558e5a5c2ecdded4777390ddecf8f5678d804afb8"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "626d8158ec0e84758abfb66ad1ae4e53f353f995bda5ae52b2b0b662f3420248"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
 metafile = true
@@ -161,6 +181,11 @@ hash = "82a892755a825ac7724c84c063cef2f884fc8c3b36ac1da8bb02dbbd76af58aa"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "a8c6a45895b59f2a00c108a5247de7eb15083a0bd835ed10c850ca22f81504ba"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
 metafile = true
@@ -223,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "78f6a760d66709335b8bc92561589b0aba25873ef77f4cd1cdec570416ae9c6b"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "26037d30e6793c772f46bbd1f4a6bc1b07806a7f611fe9c42f21a95902a4d577"
 metafile = true
 
 [[files]]
@@ -311,6 +341,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "00c92d192436a4dde9a7cb2ba3be298bbe06bc6076d2c28332e499ae7dde2bc0"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "82fa5e74cae0b3f0199f9822f62a976da2dc6ee03deb543d537ce55d36b11fcb"
 metafile = true
@@ -351,6 +386,11 @@ hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "0ccdb1ac3f7fffacc28ffa235bdf7e37105c088095f96b6e3fc9748d64328b94"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "2e4c8891ec22ca246b414728493ff52fe177bc9c4369ed23a5a80e8332e79c67"
 metafile = true
@@ -358,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "44ecdae2df678c7cb008e48a3a50079203045a03d16e49aa74637fae97630ce7"
+metafile = true
+
+[[files]]
+file = "mods/trailtales-delight.pw.toml"
+hash = "bb39209a9ee057bf7606396c9c01f27ad980218b95d01d44089cadab1063a964"
 metafile = true
 
 [[files]]
