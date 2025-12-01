@@ -6,6 +6,11 @@ hash = "9656a824ca0e7eb61f4c38cee9211189f22b7fb4c1cedd63b727cda417140f7e"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "f69fb66341fa0ac51d6ab8637efa6f68fa97038169a186975bdaff19d7139fbb"
 metafile = true
@@ -96,8 +101,23 @@ hash = "c74b45b65a814f3ef7e374b155595468e62669c58039f76af0533f7151b0dddd"
 metafile = true
 
 [[files]]
+file = "mods/cobbleloots.pw.toml"
+hash = "63f963263e39686d0ff70f8364819649597f0a9d6fed5bd21976d7a3d585151e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-cobblestats.pw.toml"
+hash = "123ec76af57e9ea236ffa65cfe7fc03e5df438113853efecc34eb97c21732d64"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "33e622b555cb9a87a5f1845df1dc25d5827428c23892ee6f98300591b4e2500d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "2b9538ef96b8e1174d03f5ea17e3535e5f562011050051ca37ac4b68f18673a7"
 metafile = true
 
 [[files]]
@@ -276,6 +296,11 @@ hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
 metafile = true
 
 [[files]]
+file = "mods/legendary-monuments.pw.toml"
+hash = "1f0f6fa1504c94b14f816c05068b42354cb29d2a38b49842bbd410d413be1ab1"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
@@ -353,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
