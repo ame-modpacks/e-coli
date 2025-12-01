@@ -1,0 +1,13 @@
+name = "CobbleFurnies"
+filename = "CobbleFurnies-neoforge-0.6.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AXY1OO9m/versions/uEagpdSk/CobbleFurnies-neoforge-0.6.3.jar"
+hash-format = "sha512"
+hash = "48806f8439bb35abb431627e0276bcae11bc19e1dbe63993480bc30d4e03b2dfe1f35f8f9f53d2517db126935a8a8c76abf8ec44283aeb027304ae1fadddf966"
+
+[update]
+[update.modrinth]
+mod-id = "AXY1OO9m"
+version = "uEagpdSk"

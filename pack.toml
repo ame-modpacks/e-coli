@@ -1,12 +1,12 @@
 name = "E. Coli"
 author = "AmeMeida"
-version = "1.1.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "055525a50af068aecf011b2a2c810d42273b2c0015af82e825b2b1a8b4346be9"
+hash = "387a639d254ecf2b64efd31f048724c86b7f410c027f1f6ce54939e7dda86455"
 
 [versions]
 minecraft = "1.21.1"
