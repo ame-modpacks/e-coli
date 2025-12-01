@@ -1,13 +1,13 @@
 name = "Cobbleloots: Loot Balls and More!"
-filename = "cobbleloots-neoforge-2.1.0.jar"
+filename = "cobbleloots-fabric-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kcudYghD/versions/GRxZHAxI/cobbleloots-neoforge-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/kcudYghD/versions/7C1m48QS/cobbleloots-fabric-2.1.0.jar"
 hash-format = "sha512"
-hash = "649c88330445f2d6cb163d577bbf84691c8d5fcf919c8a216f7992e94057a376e277bf3cf6390d35b61f3dd644a09ad531fc9cc13fe3b97024592184b955034a"
+hash = "ae2db659fc53d7d855aa62fce50bbd1e921ac819a196a32cd3e6faaa1ab8350b4c98a3e6de7dc76399c238a0c51d3e448071d8f8c42316f69168fbff2c3f07ae"
 
 [update]
 [update.modrinth]
 mod-id = "kcudYghD"
-version = "GRxZHAxI"
+version = "7C1m48QS"

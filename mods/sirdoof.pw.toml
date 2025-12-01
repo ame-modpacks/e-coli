@@ -1,0 +1,13 @@
+name = "Cobblemon: SirDoof [1.7]"
+filename = "Sirdoof-1.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VVE4g4rD/versions/B556ZfJ5/Sirdoof-1.7.jar"
+hash-format = "sha512"
+hash = "8c37af5a539bf69e3ee8f82969b719243d5d96a250abdea231fbffbb537fa3d9d4b8ca4778552f6a7e99a97baeaca136318c0063d7c1ff83eb875cb5963cfccf"
+
+[update]
+[update.modrinth]
+mod-id = "VVE4g4rD"
+version = "B556ZfJ5"

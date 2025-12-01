@@ -1,13 +1,13 @@
 name = "Not Enough Crashes"
-filename = "notenoughcrashes-neoforge-4.4.9+1.21.1.jar"
+filename = "notenoughcrashes-fabric-4.4.9+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yM94ont6/versions/alR8L7vF/notenoughcrashes-neoforge-4.4.9%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/yM94ont6/versions/gR0LY1dB/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "912c31c6e806e457a501742d668b82b70f03d5cdbb722f09da27ba19f3408f236b1704ccf9ed4a2bee82cc272ba78671bfe1fd8b46baefef1ac4ee56d703f04f"
+hash = "fb9036e3415352afa046488e2e4172a607c255a62d5accc031ba621d5c9b5c2d89fa677eedbf1c4ae0fd98f9527c4dafe4f0faa3ee97cd3f6084e47fac5c9b2a"
 
 [update]
 [update.modrinth]
 mod-id = "yM94ont6"
-version = "alR8L7vF"
+version = "gR0LY1dB"

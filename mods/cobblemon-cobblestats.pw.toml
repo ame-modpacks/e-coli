@@ -1,13 +1,13 @@
 name = "Cobblemon: CobbleStats"
-filename = "cobblestats-neoforge-1.7+1.21.1.jar"
+filename = "cobblestats-fabric-1.7+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jlXFcQk4/versions/bPy998yd/cobblestats-neoforge-1.7%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/jlXFcQk4/versions/8uZx6vFX/cobblestats-fabric-1.7%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "29ac65c11fa6227c2433338aff3aa505ed00deca02e61c80013b1809b82af5762e14660fb8206e51f1ed7ad9376c848ea521116c612a5f3b1b6f180a9e307524"
+hash = "e63f2204f8bc82d10af7b0e92d1cb0bc342257f0970d7c9d11c82516a1508254dbbe5e1106bb2d0f3454b31213808236d38814983df7867f4ce9128deaf233bd"
 
 [update]
 [update.modrinth]
 mod-id = "jlXFcQk4"
-version = "bPy998yd"
+version = "8uZx6vFX"

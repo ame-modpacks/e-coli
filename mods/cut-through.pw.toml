@@ -1,17 +1,17 @@
 name = "Cut Through"
-filename = "CutThrough-v21.1.0-1.21.1-NeoForge.jar"
+filename = "CutThrough-v21.1.0-1.21.1-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dk6su9JN/versions/5P5tLHSh/CutThrough-v21.1.0-1.21.1-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/Dk6su9JN/versions/EDWIJkMA/CutThrough-v21.1.0-1.21.1-Fabric.jar"
 hash-format = "sha512"
-hash = "e6313fe2c2fb8b5131b39bf8ae105e5120630b78d713db5a573c6830a476868beee3f38aa4da7c29779214b7690af83ca0ce9036d1f757a54c2352e0748cd256"
-
-[option]
-optional = true
-default = true
+hash = "ded1c840a06e0bac35d2b5d61b3d36a01c2a300ee9fa24e41954546301db93f1588294a8b09f20c48b0c6160d63b2a946aee49553dd051b6bf4a076ef90f3d44"
 
 [update]
 [update.modrinth]
 mod-id = "Dk6su9JN"
-version = "5P5tLHSh"
+version = "EDWIJkMA"
+
+[option]
+optional = true
+default = true

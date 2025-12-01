@@ -1,0 +1,13 @@
+name = "Cobblemon: Capture PC Heal"
+filename = "cobblemon_capture_pc_heal-fabric-0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/W3Dr0Mk2/versions/CnTF2dQA/cobblemon_capture_pc_heal-fabric-0.1.jar"
+hash-format = "sha512"
+hash = "12750e79c97060ac8ec9c0a4c98c3a4927893a07b1a7d0c44f9b092a4d3a30855794559dbe2afd89c1e789dbfcfdd7e18ea70ccd237e705908921f89a033d9bd"
+
+[update]
+[update.modrinth]
+mod-id = "W3Dr0Mk2"
+version = "CnTF2dQA"

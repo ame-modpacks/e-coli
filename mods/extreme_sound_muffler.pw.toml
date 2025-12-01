@@ -1,18 +1,18 @@
 name = "Extreme sound muffler"
-filename = "ExtremeSoundMuffler-3.51_NeoForge-1.21.jar"
+filename = "ExtremeSoundMuffler-3.51_Fabric-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/ja8Dt0XL/ExtremeSoundMuffler-3.51_NeoForge-1.21.jar"
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/NYVzc7uB/ExtremeSoundMuffler-3.51_Fabric-1.21.jar"
 hash-format = "sha512"
-hash = "6f60acb6314d493c1c48564bbf26fa7fe09a6e90306190385a716c8395c99c7ea61a8044866593abd35f5da30b47d3f7981d2cc2244fbef70c6d31914d26e4e3"
-
-[option]
-optional = true
-default = true
-description = "A very complete client-side sound muffler mod"
+hash = "8c715a1ba00ee4cfed1b814e1c9df34e04673882807c4e00a61f28084b58a4abfdf35221e7a6e7c17cca6b5e45681896c0a3db6a187e1884e9b72d8aaaee1eb6"
 
 [update]
 [update.modrinth]
 mod-id = "5IIKsxiL"
-version = "ja8Dt0XL"
+version = "NYVzc7uB"
+
+[option]
+optional = true
+description = "A very complete client-side sound muffler mod"
+default = true
