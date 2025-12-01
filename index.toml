@@ -21,8 +21,18 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "8dde79bba7cacff03bd65e6b896d939fc7c2e02a86c23b693d2e0b678672bdd2"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
 metafile = true
 
 [[files]]
@@ -61,18 +71,13 @@ hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "aa242da373359065cb62d8e1094e2f17b456f3ea300db145896cf6c6aae43101"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "d69ef8c4975dbafb2703abfd81932e21dd9266ab5640a07f8563ffed1caf243b"
 metafile = true
 
 [[files]]
@@ -171,6 +176,11 @@ hash = "5d49dd7272a1418fabed10e3ef9b5c79c3bbb9205d83e79e301c16ad0a0e89e6"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
 metafile = true
@@ -246,6 +256,16 @@ hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "573f309a1bd1c410d149b6830aeddee7313e0698ac249a94f63a7e95c0eb146e"
 metafile = true
@@ -253,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
@@ -273,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "2507dd9242e994ec7a0b21255b0b51a91bf9e0e51b060defe7bf7f8fa1f04b53"
 metafile = true
 
 [[files]]
@@ -333,4 +363,9 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "12d9283f643e9b8f85368fccf82f328c471c043fcf06fe08dea6c034be3b0c22"
+metafile = true
+
+[[files]]
+file = "mods/zume.pw.toml"
+hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
 metafile = true
