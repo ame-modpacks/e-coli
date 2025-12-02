@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "bc649f0960b84625957f2f81b3db0ddbe0b0cca0efb3169d54382916c5f062ea"
+hash = "d4838d91cd7747816ade0f2f4a46c701a53c3ef84cb278ec24e8f6fb828a85c3"
 metafile = true
 
 [[files]]
@@ -183,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "31535a06bf76553e83bd982eb3df9158b815cb7d0207a3fc719758d020d683b7"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
 metafile = true
 
 [[files]]
@@ -451,11 +446,6 @@ hash = "fa28010fe3ba32b1f3e9aed4c432c359ebc54cfbf03196961c66461597f4188c"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "5ea6f9fdefad7193d99da78fd4aebb62957ff5ae749bc3ea67abbe7272bcac63"
 metafile = true
@@ -503,11 +493,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
-metafile = true
-
-[[files]]
-file = "mods/repo-heads.pw.toml"
-hash = "9a3bfde1a02992720bade1262be3ea3bbf88a7872a71198c014d6b8da555eef7"
 metafile = true
 
 [[files]]
@@ -593,11 +578,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "75d848265975d8a6c03cae062adf57c2d37460f2fa0de0eb3a61cf7186cdebe4"
 metafile = true
 
 [[files]]
