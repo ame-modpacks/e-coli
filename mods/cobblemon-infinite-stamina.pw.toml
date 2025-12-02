@@ -1,0 +1,13 @@
+name = "Cobblemon: Infinite Riding Stamina [1.7]"
+filename = "cobblemon-infinite-stamina-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gYkS1SbR/versions/NTQ8NjIL/cobblemon-infinite-stamina-1.4.jar"
+hash-format = "sha512"
+hash = "303bbac5696fe24016bc76b030118c1cf4ed5cb2bf64ef7061a93240f1600595d2501128c6f2aebe4dcf12adda3cf286080944a0abba3be8bcb3a80410f4e355"
+
+[update]
+[update.modrinth]
+mod-id = "gYkS1SbR"
+version = "NTQ8NjIL"

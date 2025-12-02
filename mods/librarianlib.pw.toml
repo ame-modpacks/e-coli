@@ -1,0 +1,13 @@
+name = "LibrarianLib"
+filename = "librarianlib-5.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9uQhkMe5/versions/6Jgcbioe/librarianlib-5.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "7f93af589211263d1e7a478d2beec0f2744688dc33107ade269a2e8d3607e9932227e8d6c043c25fe6476777f3b556a62f73f85a9e38e71f000dd61dad156aba"
+
+[update]
+[update.modrinth]
+mod-id = "9uQhkMe5"
+version = "6Jgcbioe"

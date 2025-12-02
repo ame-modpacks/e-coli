@@ -1,12 +1,12 @@
 name = "E. Coli"
 author = "AmeMeida"
-version = "2.1.1"
+version = "2.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1db31cc2118a63c3b0213712711f09d0b32fb0a44bf4bb3b0b5c337eaf02052d"
+hash = "638e53c415684b63d70436a3e27b807bba2d832963ea5244600a71b453dec5c1"
 
 [versions]
 fabric = "0.18.1"

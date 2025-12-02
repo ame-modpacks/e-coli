@@ -146,6 +146,11 @@ hash = "d3ae6e38f29d487f1a0d17e11f1df4978dede56aae82c4de1e04a50a9cbe7be7"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-infinite-stamina.pw.toml"
+hash = "65751a6bc6603b727302257c2c6a2f2aa07c98554443cdc7f174cc9992f38a84"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "d627d0fb3f5c037ccc75d6504749bc9beed6b73068f740f79ece59fa4748508e"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "f48bf33fff232d6c58f92e272f5a302a03c6940a5498ca64c3cc0e33c2778e94"
 metafile = true
 
 [[files]]
@@ -218,21 +228,6 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "76ab02862f59837b93cbfacfdfb722dfaf3fe5198db43ee884f61ad738a3f589"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
-metafile = true
-
-[[files]]
-file = "mods/emixx.pw.toml"
-hash = "0e21e1a5c771b202ae2f378f59e3da280414f066f294a6779403b6109b43f875"
 metafile = true
 
 [[files]]
@@ -316,6 +311,16 @@ hash = "a4db2300b1826a540ab97660a9830b1c2887454542f14ee4f10b64a7150a5e60"
 metafile = true
 
 [[files]]
+file = "mods/highspeed-rail.pw.toml"
+hash = "e906c7a26e8ace2b047b76df7e90f4d213789c0235ca2acafd317869eb57c44f"
+metafile = true
+
+[[files]]
+file = "mods/hooked.pw.toml"
+hash = "4f8e74f49978484206b617841e413857d019d43d394b3a364cd835e12262690c"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "907ed71a8d572d5bc2a8f956b0b0d0fad37e1d5bdd48464041a76ef8fca79cb7"
 metafile = true
@@ -346,6 +351,11 @@ hash = "e40ab1a8992d800199a6ac5a1a7411bae8141817f645c82c1fdc8c1381393f9e"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "334701aa0b0a795ae1d61edb4f8a325a0439f61f298012f025480fb2bdb5e8e7"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
@@ -368,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-monuments.pw.toml"
 hash = "693c054ed12d18310be26745471103bb33041c9dffbb47def57623204e5c0030"
+metafile = true
+
+[[files]]
+file = "mods/librarianlib.pw.toml"
+hash = "690fffc4bc84fda2460701b5f8d4e67f5aec3884a23c978fc4951939a9cf4b8c"
 metafile = true
 
 [[files]]
@@ -431,6 +446,11 @@ hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
 
 [[files]]
+file = "mods/nicos-graves.pw.toml"
+hash = "f65007aff065f55666341ea87edf13950fc4617704528a4f4fdaabb415a692f4"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
@@ -483,6 +503,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
+metafile = true
+
+[[files]]
+file = "mods/rail-destinations.pw.toml"
+hash = "4c7b08f70fc7673422c8e748c1a3ec5c52116a2568ad1fbebafa8c13897e1f86"
+metafile = true
+
+[[files]]
+file = "mods/railed.pw.toml"
+hash = "630a98776004ae0ce5898977fd5cf698a0b4956b5d43bbd7477a958b615fce29"
 metafile = true
 
 [[files]]
@@ -571,6 +601,11 @@ hash = "570a995d2e20eed34c5b708f09b4b02fea827054a32df7bb55257719b8cc849e"
 metafile = true
 
 [[files]]
+file = "mods/straw-golem-rebaled-ported.pw.toml"
+hash = "5d94b52644f6666784670d8675b3385f4b81167b45cc2c68fed7dcd7ecfbb669"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
@@ -578,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "11dc9ff856643ec1c9833fb821760c86e6a0ae7fca8c31769a385549237c96c9"
 metafile = true
 
 [[files]]

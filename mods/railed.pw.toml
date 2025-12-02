@@ -1,0 +1,13 @@
+name = "Railed"
+filename = "railed-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qk34XF22/versions/LyyEbEUP/railed-1.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "44fdc47ebfec432e2059861f2418ad62aa8d9e2cb28b87311a771ab9f19a13f058764ff6c0773909b3a4995a05db07b875dde26c3d29006d74a9518c6ffce103"
+
+[update]
+[update.modrinth]
+mod-id = "Qk34XF22"
+version = "LyyEbEUP"

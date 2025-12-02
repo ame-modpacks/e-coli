@@ -1,0 +1,13 @@
+name = "Hooked"
+filename = "hooked-fabric-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RoLsCIqN/versions/ddyadO7b/hooked-fabric-2.0.2.jar"
+hash-format = "sha512"
+hash = "5116b0f1dd673aa0e575432433c318658f0bdd40f98aaa23e9bc68e556822be4ef4cd058b2a1d3642b69c93722e8ba5cb777dcf3a0a6ebad9378db72154d586b"
+
+[update]
+[update.modrinth]
+mod-id = "RoLsCIqN"
+version = "ddyadO7b"

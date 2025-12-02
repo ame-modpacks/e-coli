@@ -1,0 +1,13 @@
+name = "Nicos Graves"
+filename = "nicosgraves-1.3.0.0-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XUfL7E6s/versions/loxTmu8T/nicosgraves-1.3.0.0-1.21.jar"
+hash-format = "sha512"
+hash = "d2e7a559678d3f3214ea0fbdfa58402080352e47936244bc5a9cd87190b2035c997e2b685493c9ab2545970e8743c92aa888ca291748898eb6d8d3ee3c62345f"
+
+[update]
+[update.modrinth]
+mod-id = "XUfL7E6s"
+version = "loxTmu8T"

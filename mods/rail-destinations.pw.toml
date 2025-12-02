@@ -1,0 +1,13 @@
+name = "Rail Destinations"
+filename = "rail-destinations-1.0.1-fabric-1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/UYOyMXzL/versions/zqFSYNMj/rail-destinations-1.0.1-fabric-1.21.jar"
+hash-format = "sha512"
+hash = "91605419d37469a0baae366b721051079e1d03814345596d2e77c9ff9b9962ec4cba40233a1485fc878c401a81ddd8db31ff6a5299539120c73c074d4128b896"
+
+[update]
+[update.modrinth]
+mod-id = "UYOyMXzL"
+version = "zqFSYNMj"
