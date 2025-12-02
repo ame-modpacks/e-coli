@@ -101,6 +101,11 @@ hash = "d867e4743a955dbd92002ce3b38e7f2453d813fb2921b15d161c1fe84cffe441"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "2cfaf0dcfad028db0e972f77946e71fd94376e8d70cba3d17d3abb484acf4ce8"
 metafile = true
@@ -598,11 +603,6 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "570a995d2e20eed34c5b708f09b4b02fea827054a32df7bb55257719b8cc849e"
-metafile = true
-
-[[files]]
-file = "mods/straw-golem-rebaled-ported.pw.toml"
-hash = "5d94b52644f6666784670d8675b3385f4b81167b45cc2c68fed7dcd7ecfbb669"
 metafile = true
 
 [[files]]
