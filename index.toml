@@ -309,11 +309,6 @@ hash = "8d72d60014d8ff69a9061e7dd0afee9fe6e400d590484412fa83c6ddbca1b5aa"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-ui-tweaks.pw.toml"
-hash = "4d08fa48ec55d9238c9144f82d812aae1b8bd1e66dc16a0374ec8df94d4b5eb3"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "d0d21c8cd26fc4ddcdd03893e4b7ad5e1d1a4701a272f002f2932f9686770a6e"
 metafile = true
