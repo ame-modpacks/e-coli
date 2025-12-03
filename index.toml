@@ -259,6 +259,16 @@ hash = "b83472c1b3c989ce3ba5ce18d34fc23c31463ef1de5a5dbf4128083158d2e1c0"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "c48b5f8a4bd794dfe1ac97a4245616aa63376743980b8cfc4b82f646ba1d56d8"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-cobble-it.pw.toml"
+hash = "06e4459bcef7a28be0955b285f63b9dadd2f53406373d1e8cba397cfdc54372b"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-cobblestats.pw.toml"
 hash = "d3ae6e38f29d487f1a0d17e11f1df4978dede56aae82c4de1e04a50a9cbe7be7"
 metafile = true
@@ -279,8 +289,28 @@ hash = "41dc43f228ab5996e532233380548421ae9ecdbe750e3257f40a5552f92619e8"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-move-inspector.pw.toml"
+hash = "784184013f308a4fbec92b2ab5610969ca33ec547fd953fcc9d50cd2095d63e2"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-playerxp.pw.toml"
+hash = "cffb80a78b1df4537b627efd38544f81f8eb87b252f461bbfd4285a3c4610b76"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "8d72d60014d8ff69a9061e7dd0afee9fe6e400d590484412fa83c6ddbca1b5aa"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-ui-tweaks.pw.toml"
+hash = "4d08fa48ec55d9238c9144f82d812aae1b8bd1e66dc16a0374ec8df94d4b5eb3"
 metafile = true
 
 [[files]]
