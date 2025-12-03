@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "edd7b8cf30dbf9df76a069302a5cca93d0725a986e45f53e0ab1684db8c2f09e"
+hash = "a9553a045d9d1bc6de640be2a4f1877437964a7bc25bcadb045c34e4eaad6e99"
 
 [versions]
 fabric = "0.18.1"
 minecraft = "1.21.1"
 
 [options]
-datapack-folder = "config/openloader/data"
+datapack-folder = "config/openloader/packs"

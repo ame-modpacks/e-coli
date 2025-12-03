@@ -1,9 +1,122 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/data/cobbletowns-continued.pw.toml"
+file = "config/openloader/packs/VanillaTweaks_c971428_MC1.21-1.21.10.zip"
+hash = "00ce0244a8db7311360f60ebc2cb3fe61669cab1b9bee45ed38628d77befffa9"
+
+[[files]]
+file = "config/openloader/packs/afk display v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "8b961fb93fba3e76bb1ec972126fb2ba281d1bd6ad97abd344f35b51e178b834"
+
+[[files]]
+file = "config/openloader/packs/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "a35f9c3942bcae8e55fd6d3d78ba2093fffd40b849d9a60b9a72b8fa72a760dd"
+metafile = true
+
+[[files]]
+file = "config/openloader/packs/armor statues v2.8.20 (MC 1.21-1.21.10).zip"
+hash = "c90a6754f42dd989ed3d11e162eecf98a0e1c39fbad4383c71f30c627fca9b9a"
+
+[[files]]
+file = "config/openloader/packs/bat membranes v1.0.15 (MC 1.21-1.21.10).zip"
+hash = "9b58207b748ac4d71a3329e2a332d8d62399d0d6cd7514c9a0a2907c2bea8b60"
+
+[[files]]
+file = "config/openloader/packs/cauldron concrete v3.0.7 (MC 1.21-1.21.10).zip"
+hash = "608908195804304dfee8150ed0fe3ee982b40fb2879fd717d164348ebd322ea2"
+
+[[files]]
+file = "config/openloader/packs/cauldron mud v1.0.7 (MC 1.21-1.21.10).zip"
+hash = "d79930d149a8c984257dc498992a87df4571dea03af089eeb7fdab711566072c"
+
+[[files]]
+file = "config/openloader/packs/cobbletowns-continued.pw.toml"
 hash = "cd4f70ef2615c4103f4ed1befc1991d209319e806dd73606fd99cd73cdbba8e3"
 metafile = true
+
+[[files]]
+file = "config/openloader/packs/custom nether portals v2.3.17 (MC 1.21-1.21.10).zip"
+hash = "6010ea87af1597fe730017dba01ff48d1992ef617cf90e1cced0756953b28f0c"
+
+[[files]]
+file = "config/openloader/packs/custom villager shops v1.2.14 (MC 1.21-1.21.10).zip"
+hash = "3524e92d64303c014d1caae9537d8635791c05e44314e13484c1ae4281e6ae29"
+
+[[files]]
+file = "config/openloader/packs/double shulker shells v1.3.14 (MC 1.21-1.21.10).zip"
+hash = "a63d05018a10fcf5fb488a89eed8a952d26b17cc4ce0320ba4c1b1ec86e41c30"
+
+[[files]]
+file = "config/openloader/packs/dragon drops v1.3.14 (MC 1.21-1.21.10).zip"
+hash = "1a7053df0d904e8776478d3d0258710ca7c8ba6896e11b0caa7afb75248aa148"
+
+[[files]]
+file = "config/openloader/packs/ender chest always drops v1.0.6 (MC 1.21-1.21.10).zip"
+hash = "a4e624596e03fca4cee04866f7e91f5e0e11094f6403b04157e5b0e1f5e7999a"
+
+[[files]]
+file = "config/openloader/packs/fast leaf decay v2.0.19 (MC 1.21-1.21.10).zip"
+hash = "defaa4a6fd51973ed0ef725290e5edbf8cae4100becf92916560568905d5fdd9"
+
+[[files]]
+file = "config/openloader/packs/kill empty boats v1.1.15 (MC 1.21-1.21.10).zip"
+hash = "a536c398212b0d01a3ed1ee3f4a144a7d6f92c7736beef09d377a1857c0b8ec7"
+
+[[files]]
+file = "config/openloader/packs/more effective tools v1.0.8 (MC 1.21-1.21.10).zip"
+hash = "72d2ad0b47eaf28b8ba69a487a5ffba3d7abb9fd28c65be502dc7afaee3ae941"
+
+[[files]]
+file = "config/openloader/packs/multiplayer sleep v2.6.14 (MC 1.21-1.21.10).zip"
+hash = "6218f82f661ead5c08866ff618070ffe6e48609ec98b08b0d51d8900bb9a5c16"
+
+[[files]]
+file = "config/openloader/packs/nether portal coords v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "91cb0ca7a97af6abc596fa271dfd88619a1504d3056fb563cb029e4134c07902"
+
+[[files]]
+file = "config/openloader/packs/painting picker v1.1.1 (MC 1.21-1.21.10).zip"
+hash = "d0bd826998dd807d9e74dff7ceec6a99163f6b40fc0986e621a41f5bc640a424"
+
+[[files]]
+file = "config/openloader/packs/player head drops v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "310354d54ed65f619903dd07f1a5fcdb1fae47a4c39d234fbe39cb373040755c"
+
+[[files]]
+file = "config/openloader/packs/real time clock v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "2bf51a03cc115621b55595ca59fbf7fab28057051fe27cfa12722afbb1a089f5"
+
+[[files]]
+file = "config/openloader/packs/silence mobs v1.2.8 (MC 1.21-1.21.10).zip"
+hash = "934db02ab188038041283033a0eb4fea0aa6e9bc08d50b39e2c9c26fdac73747"
+
+[[files]]
+file = "config/openloader/packs/spectator conduit power v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "6b029f393c39e5b88820fad2563e8c7d7d3004f78f21d99ac573d755b8ac9c35"
+
+[[files]]
+file = "config/openloader/packs/spectator night vision v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "dd0f9e92bb78c99ecaab0c7bca1796180e4ee06e86b7538169161bc5824da569"
+
+[[files]]
+file = "config/openloader/packs/storm channeling v1.0.6 (MC 1.21-1.21.10).zip"
+hash = "725d310709c4a0b1d29f2ec2e9eed3311e250d260b21abf6d8d1c213f13745ee"
+
+[[files]]
+file = "config/openloader/packs/track raw statistics v1.7.10 (MC 1.21-1.21.10).zip"
+hash = "eddbf5ea9423948683926f66373c88fb5df579e8a8d749f5ab87885f134f3f3d"
+
+[[files]]
+file = "config/openloader/packs/track statistics v1.1.16 (MC 1.21-1.21.10).zip"
+hash = "11f38cc559f12f3596fcb0cb5cb30a702f9bdade7e05c400a212a6b885526f36"
+
+[[files]]
+file = "config/openloader/packs/villager workstation highlights v1.1.14 (MC 1.21-1.21.10).zip"
+hash = "79557bf0cc9851d672dcb8e83fac62563e46237a59d4ca1b08443e577c401638"
+
+[[files]]
+file = "config/openloader/packs/xp bottling v1.1.15 (MC 1.21-1.21.10).zip"
+hash = "56e5a03990423d6cc3f08485828352415008e2f2dbad43b5b8db00424a664580"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -233,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
+file = "mods/elevatormod.pw.toml"
+hash = "9bef602ef888f741dbd48091fe188697619acb29b9f57cadb9a0dc5b3fe55529"
 metafile = true
 
 [[files]]
@@ -664,6 +782,30 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
 metafile = true
+
+[[files]]
+file = "resourcepacks/DarkUI.zip"
+hash = "973d1d85b777260211960c30938501dc5c95f70f7a86e3be6937f8fcc9f0a32c"
+
+[[files]]
+file = "resourcepacks/GrowthMarker.zip"
+hash = "70db7a3d8f60ffdfd76330d54a64418865d925e71060d5a23efee2f3af4aecfc"
+
+[[files]]
+file = "resourcepacks/Kelp.zip"
+hash = "b3a93cdfd159f4f808c5173c497fcc52a115197d55de58d39db66057457b668c"
+
+[[files]]
+file = "resourcepacks/OreBorders.zip"
+hash = "7c7359ff30273a6c419d875d989d9741ca8cba71e7f1046babe5782aca123182"
+
+[[files]]
+file = "resourcepacks/Quieter.zip"
+hash = "5ad2afe786d4b9ef71594d19faad7d0a2932948256d7363072047aabd3200804"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_base.zip"
+hash = "5ac507885353344fb1f3be08a053f7bc9487029cbaacdefeebf17697b038c29d"
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
