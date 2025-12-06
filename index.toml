@@ -134,11 +134,6 @@ hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "e71c04679ff75573cd8ef1003eb167830f794b8979f2bdd3c99d28793f2918b0"
-metafile = true
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "b4dd3b4217e0cf479207818b743a38f0566faa947e7b7d0b13c91e1a79d35e3c"
 metafile = true
