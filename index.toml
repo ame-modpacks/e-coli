@@ -259,11 +259,6 @@ hash = "b83472c1b3c989ce3ba5ce18d34fc23c31463ef1de5a5dbf4128083158d2e1c0"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "c48b5f8a4bd794dfe1ac97a4245616aa63376743980b8cfc4b82f646ba1d56d8"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-cobble-it.pw.toml"
 hash = "06e4459bcef7a28be0955b285f63b9dadd2f53406373d1e8cba397cfdc54372b"
 metafile = true
