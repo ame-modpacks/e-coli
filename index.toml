@@ -489,6 +489,11 @@ hash = "84e4e5d7adfa7d4a18bd1fb026d190824de8556fcc02036fea8f1a41563e1ef5"
 metafile = true
 
 [[files]]
+file = "mods/glassential-renewed.pw.toml"
+hash = "21583bc605af593ea973167f5ac551d3c9db3d87627a89b2a7f626f3aca17003"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "a4db2300b1826a540ab97660a9830b1c2887454542f14ee4f10b64a7150a5e60"
 metafile = true
@@ -811,6 +816,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "45134353ccdbde88061efac7fc42a0798c4cfc549fb753d776e6a0a4c8f0e5dc"
 metafile = true
 
 [[files]]
