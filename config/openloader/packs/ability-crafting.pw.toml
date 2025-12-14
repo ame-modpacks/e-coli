@@ -1,0 +1,13 @@
+name = "Ability Crafting"
+filename = "AbilityItems 1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qNEMbySF/versions/aTcPGjwp/AbilityItems%201.1.zip"
+hash-format = "sha512"
+hash = "f6bab878e215a39f9fe3b33e630830caca5fcba71bf0a924ed762c73770c01db42aa3b7737b2c9a28bb886eb64d95f5c8504b13b3f6d8f00a955e098e0e852e7"
+
+[update]
+[update.modrinth]
+mod-id = "qNEMbySF"
+version = "aTcPGjwp"

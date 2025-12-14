@@ -5,6 +5,11 @@ file = "config/openloader/packs/VanillaTweaks_c971428_MC1.21-1.21.10.zip"
 hash = "00ce0244a8db7311360f60ebc2cb3fe61669cab1b9bee45ed38628d77befffa9"
 
 [[files]]
+file = "config/openloader/packs/ability-crafting.pw.toml"
+hash = "30e24545587385a81268f717d15dd3f7f81d4d80e67ea9cd539bbbf2319f61f2"
+metafile = true
+
+[[files]]
 file = "config/openloader/packs/afk display v1.1.14 (MC 1.21-1.21.10).zip"
 hash = "8b961fb93fba3e76bb1ec972126fb2ba281d1bd6ad97abd344f35b51e178b834"
 
@@ -28,6 +33,11 @@ hash = "608908195804304dfee8150ed0fe3ee982b40fb2879fd717d164348ebd322ea2"
 [[files]]
 file = "config/openloader/packs/cauldron mud v1.0.7 (MC 1.21-1.21.10).zip"
 hash = "d79930d149a8c984257dc498992a87df4571dea03af089eeb7fdab711566072c"
+
+[[files]]
+file = "config/openloader/packs/cobbledollar-shops.pw.toml"
+hash = "d106fe0c35b3e7c3ab593fc1820ae7453ac86854618e4c4985581df60442c43b"
+metafile = true
 
 [[files]]
 file = "config/openloader/packs/cobbletowns-continued.pw.toml"
@@ -244,6 +254,11 @@ hash = "dd9c84c3f22e37ee533990585112642b5c9a7ede61d29e5d13330a99b9a48b02"
 metafile = true
 
 [[files]]
+file = "mods/cobbledollars.pw.toml"
+hash = "25f8930a5814dfd54e697263a558293058e6c07603a44169b55e9fcea5ffd2e7"
+metafile = true
+
+[[files]]
 file = "mods/cobblefurnies.pw.toml"
 hash = "d5c2c194225075bcd748d812aa72bee771b9287851d0064cb25636415444cbf7"
 metafile = true
@@ -254,8 +269,18 @@ hash = "489dfed279df684ed0677b5c28a5d0b3122e4324a9a9b85981861e5596a91026"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-additions.pw.toml"
+hash = "890c06908f2ff2abcbaed7af89583e639750b52762005eb121158d01fc51a8ab"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-pc-heal.pw.toml"
 hash = "b83472c1b3c989ce3ba5ce18d34fc23c31463ef1de5a5dbf4128083158d2e1c0"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "c48b5f8a4bd794dfe1ac97a4245616aa63376743980b8cfc4b82f646ba1d56d8"
 metafile = true
 
 [[files]]
@@ -299,6 +324,11 @@ hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-repel.pw.toml"
+hash = "e24423d7ff807f880b36acb374e00e28908182bf15fa916b6a319b9ce804f81f"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "8d72d60014d8ff69a9061e7dd0afee9fe6e400d590484412fa83c6ddbca1b5aa"
 metafile = true
@@ -306,6 +336,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "d0d21c8cd26fc4ddcdd03893e4b7ad5e1d1a4701a272f002f2932f9686770a6e"
+metafile = true
+
+[[files]]
+file = "mods/cobbleworkers.pw.toml"
+hash = "957bd09dcffc462fd77807dbbd888b2e8708dddff1aea520169df64ea2d9e72e"
+metafile = true
+
+[[files]]
+file = "mods/cobbreeding.pw.toml"
+hash = "04c247ff830d3df40c658262eff0e40a3e7b5f64ca0c8a5e5cbce34da352bf37"
 metafile = true
 
 [[files]]
@@ -380,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "054628ed76bd95bde1dbb4343721f3fbed87c8ad798ce99fc74b1171c39b6400"
+hash = "52eff5c4364676432feed4f4ea8b8a9441d4d95b84d4c434891063c99c05029c"
 metafile = true
 
 [[files]]
@@ -634,6 +674,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/pokeblocks.pw.toml"
+hash = "2776d6c14fbfbc55183ad6953596ae8e3cf35816813bf8d9cde663044d5c6121"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
 metafile = true
@@ -696,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "272b27d64cd27b909567437683287909b35de9f78db27214efb1d5e4334f9f82"
+metafile = true
+
+[[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "27f2a11921312246d216d0c0c021f9c2602e5a06fb17ba6f8c12ee8542d8826a"
 metafile = true
 
 [[files]]
