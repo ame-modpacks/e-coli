@@ -834,6 +834,11 @@ hash = "45134353ccdbde88061efac7fc42a0798c4cfc549fb753d776e6a0a4c8f0e5dc"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "3b914c4a3744290bb5b4b806918fdfa96e3d55acb56afae34424687fe0a9425e"
+metafile = true
+
+[[files]]
 file = "mods/trailtales-delight.pw.toml"
 hash = "7b83fb97e1b10d79facae8c65138bd3c915ff25bba39761f0d04639f2c4cd37a"
 metafile = true
