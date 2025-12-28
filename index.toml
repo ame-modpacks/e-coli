@@ -204,6 +204,16 @@ hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "aa0c2cd303847d8a3151fb560fc9c63bf876d834d0956a150ab89eda936fb189"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "7b5117641ed64940005d73a281d598be655aebcdc4356a05b25392f1183c773f"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
@@ -336,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "d0d21c8cd26fc4ddcdd03893e4b7ad5e1d1a4701a272f002f2932f9686770a6e"
+metafile = true
+
+[[files]]
+file = "mods/cobblepots.pw.toml"
+hash = "1c79d6d891a224b3d00358deb45ce2117316e352572c2f2154da7aa202dfec0c"
 metafile = true
 
 [[files]]
